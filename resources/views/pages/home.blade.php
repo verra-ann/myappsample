@@ -13,7 +13,7 @@
             <div class="container relative z-10 flex items-center px-6 py-32 mx-auto md:px-12 xl:py-40">
                 <div class="relative z-10 flex flex-col items-center w-full font-mono">
                     <h1 class="mt-1 text-5xl font-extrabold leading-tight text-center text-white animate-bounce">
-                        To-Do List!
+                        To-Do List
                     </h1>
                     <form class="mt-1 space-y-6" action="/NewTodo" method="POST">
                         @csrf
